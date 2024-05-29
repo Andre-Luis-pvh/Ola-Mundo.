@@ -4,8 +4,8 @@ while x <= 5:
    x += 1
    
 # true ou false
-Idade_Maria = 20
+Idade_Maria = 34
 Idade_Carla = 33
-Res = Idade_Maria > Idade_Carla
+Res = Idade_Maria < Idade_Carla
 print(Res)
    
